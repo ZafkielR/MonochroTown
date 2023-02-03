@@ -1,10 +1,10 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001 普通图","order":1,"parentId":0,"scrollX":884.7272727272727,"scrollY":502.3636363636364},
-{"id":2,"expanded":false,"name":"MAP002 黑图","order":2,"parentId":0,"scrollX":627,"scrollY":344.5},
-{"id":3,"expanded":true,"name":"MAP006 学校","order":4,"parentId":0,"scrollX":627,"scrollY":344.5},
+{"id":2,"expanded":false,"name":"MAP002 黑图","order":2,"parentId":0,"scrollX":893.4545454545455,"scrollY":493.6363636363637},
+{"id":3,"expanded":true,"name":"MAP006 学校","order":4,"parentId":0,"scrollX":884.7272727272727,"scrollY":502.3636363636364},
 {"id":4,"expanded":true,"name":"MAP004 出生点","order":3,"parentId":0,"scrollX":884.7272727272727,"scrollY":502.3636363636364},
-{"id":5,"expanded":false,"name":"学校 走廊","order":6,"parentId":0,"scrollX":917,"scrollY":352.5},
+{"id":5,"expanded":false,"name":"学校 走廊","order":6,"parentId":0,"scrollX":893.4545454545455,"scrollY":493.6363636363637},
 null,
 {"id":7,"expanded":false,"name":"MAP0010 学校 教室","order":5,"parentId":0,"scrollX":893.4545454545455,"scrollY":502.3636363636364}
 ]
